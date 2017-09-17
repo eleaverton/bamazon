@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/eleaverton/bamazon/issues"
   },
-  "homepage": "https://github.com/eleaverton/bamazon#readme"
+  "homepage": "https://github.com/eleaverton/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3",
+    "mysql": "^2.14.1"
+  }
 }
